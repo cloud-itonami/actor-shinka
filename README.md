@@ -1,6 +1,6 @@
 # shinka — Actor Evolution Scheduler
 
-Canonical repository: `etzhayyim/actor-shinka`.
+Canonical repository: `cloud-itonami/actor-shinka`.
 
 Shinka schedules bounded evolution and repair work for Etzhayyim actors. EDN
 contracts and manifests are canonical; protocol projections live under `wire/`.
